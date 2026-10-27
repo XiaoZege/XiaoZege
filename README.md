@@ -1,15 +1,20 @@
- 你好，我是 小泽哥
-福建农林大学 · 生物信息学 · 大二 | 正在学 AI 应用工程
+# 你好，我是 XiaoZege
 
-**现在在做**
- 企业知识库问答：FastAPI + 向量检索 + 评测
- 一个带重试与限流的 LLM 客户端
+福建农林大学 · 生物信息学在读。目标是 AI 应用开发方向（Python 为主，Java 只做入门了解）。
 
-**技术栈**
-Python / FastAPI / MySQL / Docker
+## 现在在做什么
 
-**最近**
-- [技术博客](https://XiaoZege.github.io)：双周一篇实验记录
+- 32 个月学习计划执行中，当前阶段：Python 工程化基础
+- 写一个 CLI 小工具 [file-tool](https://github.com/XiaoZege/file-tool)：文件批量重命名 / 按扩展名统计 / CSV 去重
+- 每周一篇技术复盘，发在 [我的技术笔记](https://XiaoZege.github.io)
 
-**联系**
- GitHub: https://github.com/ XiaoZege## Hi there 👋
+## 技术栈
+
+`Python` · `uv` · `pytest` · `ruff` · `Git` · `GitHub Actions` · `Hugo`
+
+接下来的路线：FastAPI → MySQL / Redis → RAG → Agent 工程化
+
+## 联系
+
+- 博客：https://XiaoZege.github.io
+- 邮箱：2028557260@qq.com
